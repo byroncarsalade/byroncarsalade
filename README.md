@@ -40,7 +40,7 @@
     
 <br>
 
-- **CMS (content management system)**:
+- **CMS**:
 
    [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
     

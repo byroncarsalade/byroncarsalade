@@ -40,6 +40,12 @@
     
 <br>
 
+- **CMS (content management system)**:
+
+   [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+    
+<br>
+
 - **Softwares and Tools**:
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
